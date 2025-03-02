@@ -1,0 +1,35 @@
+﻿Name,Price,Type,Brand,Lead Time (days)
+Corsair RM850,129,Power Supply,Corsair,2
+EVGA 750 GQ,119,Power Supply,EVGA,3
+Seasonic Focus GX-750,139,Power Supply,Seasonic,2
+ASUS ROG Strix RTX 4080,1199,GPU,ASUS,5
+MSI Ventus RTX 4070,599,GPU,MSI,4
+Gigabyte Aorus RX 7900 XTX,1099,GPU,Gigabyte,7
+Intel Core i9-13900K,599,CPU,Intel,2
+AMD Ryzen 7 7800X3D,449,CPU,AMD,3
+Intel Core i5-13600KF,329,CPU,Intel,2
+G.Skill Trident Z RGB 32GB,129,RAM,G.Skill,2
+Corsair Vengeance 64GB,199,RAM,Corsair,3
+Kingston Fury 16GB,89,RAM,Kingston,2
+Samsung 990 Pro 2TB,249,Storage,Samsung,3
+WD Black SN850X 1TB,159,Storage,Western Digital,4
+Seagate Barracuda 4TB,99,Storage,Seagate,5
+Lian Li Lancool III,149,Case,Lian Li,3
+NZXT H7 Flow,129,Case,NZXT,2
+Fractal Design Meshify 2,159,Case,Fractal Design,3
+Noctua NH-D15,99,Cooling,Noctua,2
+Corsair iCUE H150i,189,Cooling,Corsair,3
+Cooler Master Hyper 212,49,Cooling,Cooler Master,2
+ASUS ROG Maximus Z790,499,Motherboard,ASUS,3
+MSI MAG B650 Tomahawk,229,Motherboard,MSI,2
+Gigabyte Aorus X570 Elite,179,Motherboard,Gigabyte,3
+EVGA Supernova 1000 G5,169,Power Supply,EVGA,3
+Crucial P5 Plus 2TB,189,Storage,Crucial,2
+HyperX Alloy FPS Pro,79,Keyboard,HyperX,2
+Razer BlackWidow V4,149,Keyboard,Razer,2
+Logitech MX Master 3S,99,Mouse,Logitech,2
+SteelSeries Aerox 5,79,Mouse,SteelSeries,3
+ASUS PG27AQDM 27",799,Monitor,ASUS,4
+LG UltraGear 34GN850-B,699,Monitor,LG,4
+Dell Alienware AW3423DW,999,Monitor,Dell,5
+
