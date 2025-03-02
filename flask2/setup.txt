@@ -1,0 +1,6 @@
+#from cmd line run
+
+#pip install flask 
+
+#change to program diriectory to run app
+# [ctrl] [break] to exit 
